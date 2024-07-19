@@ -3,12 +3,12 @@
 <h4>This is a simple slot machine game implemented in JavaScript. The game allows users to deposit money, place bets on multiple lines, spin the slot machine, and check their winnings. Users can choose to play again or quit based on their balance.</h4>
 
 <h2>Features</h2>
-Deposit money to start playing.
-Choose the number of lines to bet on (1-3).
-Place bets per line.
-Spin the slot machine to get random symbols.
-Check if you have won and get your winnings.
-Option to play again or quit.
+Deposit money to start playing. <br>
+Choose the number of lines to bet on (1-3). <br>
+Place bets per line. <br>
+Spin the slot machine to get random symbols. <br>
+Check if you have won and get your winnings. <br>
+Option to play again or quit. <br>
 
 <h2>INSTALLATION : </h2>
 <h4>
@@ -32,13 +32,13 @@ Option to play again or quit.
 <h2>CODE STRUCTURE : 
 </h2>
 <h4>
-1. deposit: Function to deposit money.
-2. getNumberofLines: Function to get the number of lines to bet on.
-3. getBet: Function to get the bet amount per line.
-4. spin: Function to spin the slot machine and get random symbols.
-5. transpose: Function to transpose the reels for easy checking of lines.
-6. printRow: Function to print the rows of the slot machine.
-7. getWinnings: Function to calculate the winnings based on the bet and lines.
+1. deposit: Function to deposit money. <br>
+2. getNumberofLines: Function to get the number of lines to bet on. <br>
+3. getBet: Function to get the bet amount per line. <br>
+4. spin: Function to spin the slot machine and get random symbols. <br>
+5. transpose: Function to transpose the reels for easy checking of lines. <br>
+6. printRow: Function to print the rows of the slot machine. <br>
+7. getWinnings: Function to calculate the winnings based on the bet and lines. <br>
 </h4>
 
 <h2>
