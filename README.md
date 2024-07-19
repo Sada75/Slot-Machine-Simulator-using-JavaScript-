@@ -47,15 +47,15 @@ Option to play again or quit.
 </h2>
 
 <h3>
-Enter the deposit amount: 100
-Enter the number of lines which you want to bet on (1-3): 2
-Enter the bet amount per line: 10
-A|B|C
-D|A|B
-C|D|A
-You won $20
-You are left with $110
-You want to play again? (y/n): y
+Enter the deposit amount: 100 <br>
+Enter the number of lines which you want to bet on (1-3): 2 <br>
+Enter the bet amount per line: 10 <br>
+A|B|C <br>
+D|A|B <br>
+C|D|A <br>
+You won $20 <br>
+You are left with $110 <br>
+You want to play again? (y/n): y  <br>
 ...
 </h3>
 
